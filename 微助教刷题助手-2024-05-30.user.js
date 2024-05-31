@@ -14,7 +14,7 @@
 (function() {
     // 创建一个按钮元素
     var button = document.createElement('button');
-    button.innerHTML = '点这点这';
+    button.innerHTML = '点这!点这';
 
     // 将按钮添加到页面中
     document.body.appendChild(button);
