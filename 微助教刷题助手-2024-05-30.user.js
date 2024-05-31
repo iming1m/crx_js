@@ -7,8 +7,10 @@
 // @match        https://v18.teachermate.cn/wechat-pro-ssr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=teachermate.cn
 // @grant        none
+// @license      MIT
 // ==/UserScript==
-
+//# 说明
+//由陈正山先生开发,故一鸣添加部分功能后包装发布 2024/05/30
 (function() {
     // 创建一个按钮元素
     var button = document.createElement('button');
