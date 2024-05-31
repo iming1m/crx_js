@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微助教刷题助手
 // @namespace    http://tampermonkey.net/
-// @version      2024-05-30
+// @version      1.1.0
 // @description  try to take over the world!
 // @author       陈正山(一作),故一鸣(二作).
 // @match        https://v18.teachermate.cn/wechat-pro-ssr/*
