@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         微助教刷题助手
 // @namespace    http://tampermonkey.net/
-// @version      1.3.1
-// @description  微助教
+// @version      1.2.1
+// @description  微助教助手,方便刷题
 // @author       陈正山(一作),故一鸣(二作).
 // @match        https://v18.teachermate.cn/wechat-pro-ssr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=teachermate.cn
